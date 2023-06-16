@@ -1,0 +1,38 @@
+body {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+.countdown-container {
+  margin-top: 30px;
+}
+
+.countdown {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  color: #d8b577;
+}
+
+.countdown div {
+  margin: 10px;
+}
+
+.countdown span {
+  display: block;
+  margin-top: 5px;
+  font-size: 24px;
+}
+
+.countdown span.time {
+  font-size: 48px;
+  font-weight: bold;
+  color: #FF5733; /* Warna angka countdown */
+}
+
+.countdown span.label {
+  font-size: 18px;
+  color: #666;
+}
+
