@@ -3945,7 +3945,7 @@ body.elementor-editor-active .elementor-posts--show-thumbnail .elementor-post__t
   color: var(--load-more-message-color);
   text-align: var(--load-more-message-alignment, center);
   display: none;
-  margin-top: var(--load-more—spacing, 30px);
+  margin-top: var(--load-moreâ€”spacing, 30px);
 }
 .elementor-widget-archive-posts.e-load-more-pagination-loading,
 .elementor-widget-posts.e-load-more-pagination-loading {
@@ -3953,7 +3953,7 @@ body.elementor-editor-active .elementor-posts--show-thumbnail .elementor-post__t
 }
 .elementor-widget-archive-posts.e-load-more-pagination-loading .e-load-more-spinner,
 .elementor-widget-posts.e-load-more-pagination-loading .e-load-more-spinner {
-  margin-top: var(--load-more—spacing, 30px);
+  margin-top: var(--load-moreâ€”spacing, 30px);
 }
 .elementor-widget-archive-posts.e-load-more-pagination-loading .e-load-more-spinner i,
 .elementor-widget-archive-posts.e-load-more-pagination-loading .e-load-more-spinner svg,
@@ -3981,7 +3981,7 @@ body.elementor-editor-active .elementor-posts--show-thumbnail .elementor-post__t
 }
 .elementor-widget-archive-posts .elementor-button-wrapper,
 .elementor-widget-posts .elementor-button-wrapper {
-  margin-top: var(--load-more—spacing, 30px);
+  margin-top: var(--load-moreâ€”spacing, 30px);
 }
 .elementor-widget-archive-posts .elementor-button-wrapper .e-load-more-spinner,
 .elementor-widget-posts .elementor-button-wrapper .e-load-more-spinner {
@@ -6832,7 +6832,7 @@ body.rtl .elementor-widget-slides .elementor-swiper-button-prev {
   padding-left: 20px;
 }
 .elementor-blockquote--skin-quotation .elementor-blockquote:before {
-  content: "“";
+  content: "â€œ";
   font-size: 100px;
   color: #e6e9ec;
   font-family: Times New Roman, Times, serif;
